@@ -1,0 +1,409 @@
+[18:45:37] INFO    gwent.factory | 📂 Loaded 216 card definitions from python_engine/cards.json
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Decoy
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Dandelion
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Arachas 
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Commander's Horn
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Nekker
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Crone - Whispess
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Vampire - Ekimmara
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Siege Engineer
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Villentretenmerth
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Forktail
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Forktail
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Emiel Regis Rohellec Terzieff
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Endrega
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Arachas- Behemoth
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Vampire - Bruxa
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Arachas 
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Vampire - Ekimmara
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Vampire - Ekimmara
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Arachas 
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Scorch
+[18:45:37] INFO    gwent.container |   🔄 Swap: Commander's Horn ↔ Crone - Weavess
+[18:45:37] INFO    gwent.container |   🔄 Swap: Scorch ↔ Shilard Fitz-Oesterlen
+[18:45:37] INFO    gwent.engine | 🎮 Game started! First player: Player2
+[18:45:37] INFO    gwent.engine | 🃏 Player2 plays Dandelion (str=2, abilities=['horn'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Dandelion → Player2_close (abilities=['horn'])
+[18:45:37] INFO    gwent.engine | 🃏 Player1 plays Decoy (str=0, abilities=['decoy'])
+[18:45:37] INFO    gwent.engine | ⏭️  Player2 passed the round
+[18:45:37] INFO    gwent.engine | 🃏 Player1 plays Arachas  (str=4, abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Arachas  → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Arachas  → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Arachas  → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Arachas  → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Arachas  → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Arachas  → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.engine | 🃏 Player1 plays Nekker (str=2, abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Nekker → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.engine | ⏭️  Player1 passed the round
+================================================================================
+🎮 Matchup: Deck#0 (realms) vs Deck#1 (realms)
+================================================================================
+
+📍 After initial redraw:
+  🃏 Player1 Hand (10): [Decoy(0), Arachas (4), Nekker(2), Vampire - Ekimmara(4), Villentretenmerth(7), Forktail(5), Endrega(2), Vampire - Bruxa(4), Vampire - Ekimmara(4), Arachas (4)]
+  🃏 Player2 Hand (10): [Dandelion(2), Crone - Whispess(6), Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Crone - Weavess(6), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+================================================================================
+🔵 ROUND 1 START
+================================================================================
+  🃏 Player1 Hand (10): [Decoy(0), Arachas (4), Nekker(2), Vampire - Ekimmara(4), Villentretenmerth(7), Forktail(5), Endrega(2), Vampire - Bruxa(4), Vampire - Ekimmara(4), Arachas (4)]
+  🃏 Player2 Hand (10): [Dandelion(2), Crone - Whispess(6), Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Crone - Weavess(6), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 1: Player2 → PLAY Dandelion
+  🃏 Player1 Hand (10): [Decoy(0), Arachas (4), Nekker(2), Vampire - Ekimmara(4), Villentretenmerth(7), Forktail(5), Endrega(2), Vampire - Bruxa(4), Vampire - Ekimmara(4), Arachas (4)]
+  🃏 Player2 Hand (9): [Crone - Whispess(6), Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Crone - Weavess(6), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=2 cards=[Dandelion(2)] special=(none) effects=(w=False hw=False h=1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 2: Player1 → PLAY Decoy
+  🃏 Player1 Hand (10): [Arachas (4), Nekker(2), Vampire - Ekimmara(4), Villentretenmerth(7), Forktail(5), Endrega(2), Vampire - Bruxa(4), Vampire - Ekimmara(4), Arachas (4), Decoy(0)]
+  🃏 Player2 Hand (9): [Crone - Whispess(6), Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Crone - Weavess(6), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=2 cards=[Dandelion(2)] special=(none) effects=(w=False hw=False h=1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 3: Player2 → PASS
+  🃏 Player1 Hand (10): [Arachas (4), Nekker(2), Vampire - Ekimmara(4), Villentretenmerth(7), Forktail(5), Endrega(2), Vampire - Bruxa(4), Vampire - Ekimmara(4), Arachas (4), Decoy(0)]
+  🃏 Player2 Hand (9): [Crone - Whispess(6), Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Crone - Weavess(6), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=2 cards=[Dandelion(2)] special=(none) effects=(w=False hw=False h=1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 4: Player1 → PLAY Arachas 
+  🃏 Player1 Hand (8): [Nekker(2), Vampire - Ekimmara(4), Villentretenmerth(7), Forktail(5), Endrega(2), Vampire - Bruxa(4), Vampire - Ekimmara(4), Decoy(0)]
+  🃏 Player2 Hand (9): [Crone - Whispess(6), Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Crone - Weavess(6), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=24 cards=[Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=2 cards=[Dandelion(2)] special=(none) effects=(w=False hw=False h=1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 5: Player1 → PLAY Nekker
+  🃏 Player1 Hand (7): [Vampire - Ekimmara(4), Villentretenmerth(7), Forktail(5), Endrega(2), Vampire - Bruxa(4), Vampire - Ekimmara(4), Decoy(0)]
+  🃏 Player2 Hand (9): [Crone - Whispess(6), Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Crone - Weavess(6), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=26 cards=[Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Nekker(2)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=2 cards=[Dandelion(2)] special=(none) effects=(w=False hw=False h=1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 6: Player1 → PASS
+  🃏 Player1 Hand (7): [Vampire - Ekimmara(4), Villentretenmerth(7), Forktail(5), Endrega(2), Vampire - Bruxa(4), Vampire - Ekimmara(4), Decoy(0)][18:45:37] INFO    gwent.engine | 🏁 Round 1 ended: P1=26 P2=2 → Player1
+[18:45:37] INFO    gwent.board |   ❌ Removed: Arachas  from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Arachas  from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Arachas  from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Arachas  from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Arachas  from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Arachas  from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Nekker from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Dandelion from Player2_close
+[18:45:37] INFO    gwent.player |   🔄 Player1 round reset (wins=1)
+[18:45:37] INFO    gwent.player |   🔄 Player2 round reset (wins=0)
+[18:45:37] INFO    gwent.engine | 🃏 Player2 plays Crone - Whispess (str=6, abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Crone - Whispess → Player2_close (abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Crone - Weavess → Player2_close (abilities=['muster'])
+[18:45:37] INFO    gwent.engine | 🃏 Player1 plays Vampire - Ekimmara (str=4, abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Vampire - Ekimmara → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Vampire - Bruxa → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Vampire - Ekimmara → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Vampire - Ekimmara → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Vampire - Garkain → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.engine | ⏭️  Player2 passed the round
+[18:45:37] INFO    gwent.engine | 🃏 Player1 plays Villentretenmerth (str=7, abilities=['scorch_c'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Villentretenmerth → Player1_close (abilities=['scorch_c'])
+[18:45:37] INFO    gwent.board |   ❌ Removed: Crone - Whispess from Player2_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Crone - Weavess from Player2_close
+[18:45:37] INFO    gwent.engine | 🃏 Player1 plays Forktail (str=5, abilities=[])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Forktail → Player1_close (abilities=[])
+[18:45:37] INFO    gwent.engine | ⏭️  Player1 passed the round
+
+  🃏 Player2 Hand (9): [Crone - Whispess(6), Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Crone - Weavess(6), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=26 cards=[Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Nekker(2)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=2 cards=[Dandelion(2)] special=(none) effects=(w=False hw=False h=1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+🔴 ROUND 1 END
+  Winner: Player1
+  P1 Score: 26, P2 Score: 2
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=-1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+================================================================================
+🔵 ROUND 2 START
+================================================================================
+  🃏 Player1 Hand (7): [Vampire - Ekimmara(4), Villentretenmerth(7), Forktail(5), Endrega(2), Vampire - Bruxa(4), Vampire - Ekimmara(4), Decoy(0)]
+  🃏 Player2 Hand (9): [Crone - Whispess(6), Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Crone - Weavess(6), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=-1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 1: Player2 → PLAY Crone - Whispess
+  🃏 Player1 Hand (7): [Vampire - Ekimmara(4), Villentretenmerth(7), Forktail(5), Endrega(2), Vampire - Bruxa(4), Vampire - Ekimmara(4), Decoy(0)]
+  🃏 Player2 Hand (7): [Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=12 cards=[Crone - Whispess(6), Crone - Weavess(6)] special=(none) effects=(w=False hw=False h=-1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 2: Player1 → PLAY Vampire - Ekimmara
+  🃏 Player1 Hand (4): [Villentretenmerth(7), Forktail(5), Endrega(2), Decoy(0)]
+  🃏 Player2 Hand (7): [Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=20 cards=[Vampire - Ekimmara(4), Vampire - Bruxa(4), Vampire - Ekimmara(4), Vampire - Ekimmara(4), Vampire - Garkain(4)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=12 cards=[Crone - Whispess(6), Crone - Weavess(6)] special=(none) effects=(w=False hw=False h=-1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 3: Player2 → PASS
+  🃏 Player1 Hand (4): [Villentretenmerth(7), Forktail(5), Endrega(2), Decoy(0)]
+  🃏 Player2 Hand (7): [Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=20 cards=[Vampire - Ekimmara(4), Vampire - Bruxa(4), Vampire - Ekimmara(4), Vampire - Ekimmara(4), Vampire - Garkain(4)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=12 cards=[Crone - Whispess(6), Crone - Weavess(6)] special=(none) effects=(w=False hw=False h=-1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 4: Player1 → PLAY Villentretenmerth
+  🃏 Player1 Hand (3): [Forktail(5), Endrega(2), Decoy(0)]
+  🃏 Player2 Hand (7): [Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=27 cards=[Vampire - Ekimmara(4), Vampire - Bruxa(4), Vampire - Ekimmara(4), Vampire - Ekimmara(4), Vampire - Garkain(4), Villentretenmerth(7)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=-1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 5: Player1 → PLAY Forktail
+  🃏 Player1 Hand (2): [Endrega(2), Decoy(0)]
+  🃏 Player2 Hand (7): [Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=32 cards=[Vampire - Ekimmara(4), Vampire - Bruxa(4), Vampire - Ekimmara(4), Vampire - Ekimmara(4), Vampire - Garkain(4), Villentretenmerth(7), Forktail(5)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=-1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 6: Player1 → PASS
+  🃏 Player1 Hand (2): [Endrega(2), Decoy(0)]
+  🃏 Player2 Hand (7): [Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Shilard Fitz-Oesterlen(7)][18:45:37] INFO    gwent.engine | 🏁 Round 2 ended: P1=32 P2=0 → Player1
+[18:45:37] INFO    gwent.board |   ❌ Removed: Vampire - Ekimmara from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Vampire - Bruxa from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Vampire - Ekimmara from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Vampire - Ekimmara from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Vampire - Garkain from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Villentretenmerth from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Forktail from Player1_close
+[18:45:37] INFO    gwent.player |   🔄 Player1 round reset (wins=2)
+[18:45:37] INFO    gwent.player |   🔄 Player2 round reset (wins=0)
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Crone - Weavess
+[18:45:37] INFO    gwent.engine | 🃏 Player2 plays Siege Engineer (str=6, abilities=[])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Siege Engineer → Player2_siege (abilities=[])
+[18:45:37] INFO    gwent.engine | 🃏 Player1 plays Endrega (str=2, abilities=[])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Endrega → Player1_ranged (abilities=[])
+[18:45:37] INFO    gwent.engine | ⏭️  Player2 passed the round
+[18:45:37] INFO    gwent.engine | 🃏 Player1 plays Decoy (str=0, abilities=['decoy'])
+[18:45:37] INFO    gwent.engine | 🃏 Player1 plays Crone - Weavess (str=6, abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Crone - Weavess → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.board |   🎴 Placed: Crone - Whispess → Player1_close (abilities=['muster'])
+[18:45:37] INFO    gwent.engine | ⏭️  Player1 passed the round
+[18:45:37] INFO    gwent.engine | 🏁 Round 3 ended: P1=14 P2=6 → Player1
+[18:45:37] INFO    gwent.board |   ❌ Removed: Crone - Weavess from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Crone - Whispess from Player1_close
+[18:45:37] INFO    gwent.board |   ❌ Removed: Endrega from Player1_ranged
+[18:45:37] INFO    gwent.board |   ❌ Removed: Siege Engineer from Player2_siege
+[18:45:37] INFO    gwent.player |   🔄 Player1 round reset (wins=3)
+[18:45:37] INFO    gwent.player |   🔄 Player2 round reset (wins=0)
+[18:45:37] INFO    gwent.container |   🃏 Draw 1 card(s): Siege Engineer
+
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=32 cards=[Vampire - Ekimmara(4), Vampire - Bruxa(4), Vampire - Ekimmara(4), Vampire - Ekimmara(4), Vampire - Garkain(4), Villentretenmerth(7), Forktail(5)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=-1 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+🔴 ROUND 2 END
+  Winner: Player1
+  P1 Score: 32, P2 Score: 0
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+================================================================================
+🔵 ROUND 3 START
+================================================================================
+  🃏 Player1 Hand (3): [Endrega(2), Decoy(0), Crone - Weavess(6)]
+  🃏 Player2 Hand (7): [Siege Engineer(6), Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 1: Player2 → PLAY Siege Engineer
+  🃏 Player1 Hand (3): [Endrega(2), Decoy(0), Crone - Weavess(6)]
+  🃏 Player2 Hand (6): [Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=6 cards=[Siege Engineer(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 2: Player1 → PLAY Endrega
+  🃏 Player1 Hand (2): [Decoy(0), Crone - Weavess(6)]
+  🃏 Player2 Hand (6): [Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=2 cards=[Endrega(2)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=6 cards=[Siege Engineer(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 3: Player2 → PASS
+  🃏 Player1 Hand (2): [Decoy(0), Crone - Weavess(6)]
+  🃏 Player2 Hand (6): [Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=2 cards=[Endrega(2)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=6 cards=[Siege Engineer(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 4: Player1 → PLAY Decoy
+  🃏 Player1 Hand (2): [Crone - Weavess(6), Decoy(0)]
+  🃏 Player2 Hand (6): [Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=2 cards=[Endrega(2)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=6 cards=[Siege Engineer(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 5: Player1 → PLAY Crone - Weavess
+  🃏 Player1 Hand (1): [Decoy(0)]
+  🃏 Player2 Hand (6): [Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=12 cards=[Crone - Weavess(6), Crone - Whispess(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=2 cards=[Endrega(2)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=6 cards=[Siege Engineer(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 6: Player1 → PASS
+  🃏 Player1 Hand (1): [Decoy(0)]
+  🃏 Player2 Hand (6): [Forktail(5), Emiel Regis Rohellec Terzieff(5), Arachas- Behemoth(6), Arachas (4), Vampire - Ekimmara(4), Shilard Fitz-Oesterlen(7)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=12 cards=[Crone - Weavess(6), Crone - Whispess(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=2 cards=[Endrega(2)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=6 cards=[Siege Engineer(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+🔴 ROUND 3 END
+  Winner: Player1
+  P1 Score: 14, P2 Score: 6
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})[18:45:37] INFO    gwent.state |   🏆 Game winner: Player1 (3-0)
+
+
+================================================================================
+🏆 GAME OVER — Winner: Player1
+================================================================================

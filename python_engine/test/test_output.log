@@ -1,0 +1,104 @@
+================================================================================
+🎮 Matchup: Deck#0 (realms) vs Deck#1 (realms)
+================================================================================
+
+📍 After initial redraw:
+  🃏 Player1 Hand (10): [Siege Engineer(6), Arachas (4), Crone - Weavess(6), Emiel Regis Rohellec Terzieff(5), Arachas (4), Philippa Eilhart(10), Decoy(0), Arachas (4), Arachas- Behemoth(6), Endrega(2)]
+  🃏 Player2 Hand (10): [Arachas (4), Vampire - Bruxa(4), Fire Elemental(6), Arachas (4), Arachas (4), Villentretenmerth(7), Arachas (4), Commander's Horn(0), Crone - Whispess(6), Arachas (4)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+================================================================================
+🔵 ROUND 1 START
+================================================================================
+  🃏 Player1 Hand (10): [Siege Engineer(6), Arachas (4), Crone - Weavess(6), Emiel Regis Rohellec Terzieff(5), Arachas (4), Philippa Eilhart(10), Decoy(0), Arachas (4), Arachas- Behemoth(6), Endrega(2)]
+  🃏 Player2 Hand (10): [Arachas (4), Vampire - Bruxa(4), Fire Elemental(6), Arachas (4), Arachas (4), Villentretenmerth(7), Arachas (4), Commander's Horn(0), Crone - Whispess(6), Arachas (4)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 1: Player2 → PLAY Arachas 
+  🃏 Player1 Hand (10): [Siege Engineer(6), Arachas (4), Crone - Weavess(6), Emiel Regis Rohellec Terzieff(5), Arachas (4), Philippa Eilhart(10), Decoy(0), Arachas (4), Arachas- Behemoth(6), Endrega(2)]
+  🃏 Player2 Hand (5): [Vampire - Bruxa(4), Fire Elemental(6), Villentretenmerth(7), Commander's Horn(0), Crone - Whispess(6)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=24 cards=[Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 2: Player1 → PLAY Siege Engineer
+  🃏 Player1 Hand (9): [Arachas (4), Crone - Weavess(6), Emiel Regis Rohellec Terzieff(5), Arachas (4), Philippa Eilhart(10), Decoy(0), Arachas (4), Arachas- Behemoth(6), Endrega(2)]
+  🃏 Player2 Hand (5): [Vampire - Bruxa(4), Fire Elemental(6), Villentretenmerth(7), Commander's Horn(0), Crone - Whispess(6)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=6 cards=[Siege Engineer(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=24 cards=[Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 3: Player2 → PASS
+  🃏 Player1 Hand (9): [Arachas (4), Crone - Weavess(6), Emiel Regis Rohellec Terzieff(5), Arachas (4), Philippa Eilhart(10), Decoy(0), Arachas (4), Arachas- Behemoth(6), Endrega(2)]
+  🃏 Player2 Hand (5): [Vampire - Bruxa(4), Fire Elemental(6), Villentretenmerth(7), Commander's Horn(0), Crone - Whispess(6)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=6 cards=[Siege Engineer(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=24 cards=[Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 4: Player1 → PLAY Arachas 
+  🃏 Player1 Hand (6): [Crone - Weavess(6), Emiel Regis Rohellec Terzieff(5), Philippa Eilhart(10), Decoy(0), Arachas- Behemoth(6), Endrega(2)]
+  🃏 Player2 Hand (5): [Vampire - Bruxa(4), Fire Elemental(6), Villentretenmerth(7), Commander's Horn(0), Crone - Whispess(6)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=24 cards=[Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=6 cards=[Siege Engineer(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=24 cards=[Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 5: Player1 → PLAY Crone - Weavess
+  🃏 Player1 Hand (5): [Emiel Regis Rohellec Terzieff(5), Philippa Eilhart(10), Decoy(0), Arachas- Behemoth(6), Endrega(2)]
+  🃏 Player2 Hand (5): [Vampire - Bruxa(4), Fire Elemental(6), Villentretenmerth(7), Commander's Horn(0), Crone - Whispess(6)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=36 cards=[Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Crone - Weavess(6), Crone - Whispess(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=6 cards=[Siege Engineer(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=24 cards=[Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+  ▶ Turn 6: Player1 → PASS
+  🃏 Player1 Hand (5): [Emiel Regis Rohellec Terzieff(5), Philippa Eilhart(10), Decoy(0), Arachas- Behemoth(6), Endrega(2)]
+  🃏 Player2 Hand (5): [Vampire - Bruxa(4), Fire Elemental(6), Villentretenmerth(7), Commander's Horn(0), Crone - Whispess(6)]
+📋 Board State:
+  Weather: (none)
+  [Player1_close] total=36 cards=[Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Crone - Weavess(6), Crone - Whispess(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player1_siege] total=6 cards=[Siege Engineer(6)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_close] total=24 cards=[Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4), Arachas (4)] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_ranged] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+  [Player2_siege] total=0 cards=[] special=(none) effects=(w=False hw=False h=0 m=0 md=0 bond={})
+
+🔴 ROUND 1 END
+  Winner: Player1
