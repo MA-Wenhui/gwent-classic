@@ -29,6 +29,7 @@ class BoardValidator:
         self._check_decoy_zero_power()
         self._check_card_holder_consistency()
         self._check_effects_consistency()
+        self._check_berserker_transform_state()
 
         if self.errors:
             prefix = f"[{context}] " if context else ""
@@ -242,6 +243,20 @@ class BoardValidator:
                             f"Row {row.name}: bond[{bond_name}]={bond_count} "
                             f"but only {len(matching)} matching cards on field"
                         )
+
+    def _check_berserker_transform_state(self):
+        """规则：Berserker 变形后不应再持有 BERSERKER 能力，且 is_transformed=True
+        JS: Mardroeme placed 时触发同行 Berserker 变形，旧卡被替换为新卡"""
+        for key, row in self.engine.board.rows.items():
+            for card in row.cards:
+                if card.is_transformed and card.has_ability(AbilityType.BERSERKER):
+                    self.errors.append(
+                        f"Transformed card {card.name} in {row.name} still has BERSERKER ability"
+                    )
+                # 变形后的卡不应再有 berserker 能力（已被替换）
+                if card.has_ability(AbilityType.BERSERKER) and not card.is_transformed:
+                    # 未变形的 Berserker 是正常的（等待 Mardroeme 触发）
+                    pass
 
 
 async def test_board_validation_during_game():
