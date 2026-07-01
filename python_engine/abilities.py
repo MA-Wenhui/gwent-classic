@@ -673,7 +673,7 @@ async def execute_muster(card: CardInstance, board: Board) -> None:
     if holder is None:
         return
 
-    name = card.name
+    name = card.definition.muster_name if card.definition.muster_name else card.name
     dash_idx = name.find('-')
     card_name = name[:dash_idx].strip() if dash_idx != -1 else name
 

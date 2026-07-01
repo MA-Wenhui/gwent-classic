@@ -42,6 +42,7 @@ def create_card_from_dict(data: dict) -> CardDefinition:
         abilities=tuple(abilities),
         max_count=int(data.get("count", 1)),
         filename=data.get("filename", ""),
+        muster_name=data.get("muster", ""),
     )
 
 

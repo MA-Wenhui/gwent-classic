@@ -24,6 +24,7 @@ class CardDefinition:
     abilities: tuple[AbilityType, ...]
     max_count: int = 1
     filename: str = ""
+    muster_name: str = ""
 
     @property
     def is_unit(self) -> bool:
